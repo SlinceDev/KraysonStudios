@@ -12,8 +12,8 @@
 <a href="https://github.com/DevCheckOG"><img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"></a>
 
 ### Contacto 📞
-
-- **SlinceDev:** *@slince_dev en Discord*
+- **[Comunidad de Discord](https://discord.com/invite/DWfuQRsxwb)**
+- **SlinceDev:** *@slince_dev en Discord* *[Instagram](https://discord.com/invite/DWfuQRsxwb)*
 - **DevCheckOG:** *@devcheckog en Discord*
 
 ### Donaciones / Contribuir 💵
