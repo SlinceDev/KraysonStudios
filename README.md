@@ -13,7 +13,7 @@
 
 ### Contacto 📞
 - **[Comunidad de Discord](https://discord.com/invite/DWfuQRsxwb)**
-- **SlinceDev:** *@slince_dev en Discord* *[Instagram](https://discord.com/invite/DWfuQRsxwb)*
+- **SlinceDev:** *@slince_dev en Discord* [Instagram](https://www.instagram.com/slince_dev/)
 - **DevCheckOG:** *@devcheckog en Discord*
 
 ### Donaciones / Contribuir 💵
